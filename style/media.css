@@ -1,0 +1,319 @@
+@media screen and (max-width: 1256px) {
+  h3::before {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .menu {
+    display: inline-flex;
+  }
+  .header-img {
+    top: 140px;
+    right: 25px;
+    width: 145%;
+  }
+  .we-offer__list li {
+    width: 45%;
+  }
+  .we-offer__list li:nth-child(3),
+  .we-offer__list li:nth-child(4) {
+    margin-top: 50px;
+  }
+  .services-slider .owl-nav {
+    right: 0;
+  }
+
+  .footer-bg {
+    width: 70%;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .logo::before {
+    left: 16px;
+  }
+
+  .nav {
+    font-size: 16px;
+  }
+
+  .offer-cont__title {
+    font-size: 44px;
+    line-height: 44px;
+  }
+
+  .phone {
+    display: none;
+  }
+
+  .header-img {
+    top: 129px;
+    right: -5px;
+    width: 165%;
+  }
+
+  button {
+    width: 194px;
+    height: 52px;
+  }
+
+  .offer-cont__btn {
+    margin-top: 50px;
+  }
+
+  .block-title {
+    font-size: 40px;
+  }
+
+  .services-slider__desc,
+  .slider-desc {
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .services-slider .owl-nav {
+    top: 280px;
+    right: -30px;
+  }
+
+  .cost-offer {
+    font-size: 20px;
+  }
+
+  .footer-menu {
+    font-size: 18px;
+  }
+
+  .footer-contacts__phone {
+    font-size: 22px;
+  }
+
+  .footer-contacts__icons {
+    background-size: 85%;
+  }
+
+  .footer-bg {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .logo {
+    color: #fff;
+  }
+
+  .nav {
+    font-size: 14px;
+  }
+
+  .nav > .container > .row {
+    justify-content: center !important;
+  }
+
+  .navbar {
+    align-items: flex-end;
+  }
+
+  .offer-cont__title {
+    font-size: 36px;
+    line-height: 36px;
+  }
+
+  .header-img {
+    top: -119px;
+    right: -38px;
+    width: 72%;
+  }
+
+  button {
+    height: 48px;
+    width: 160px;
+    font-size: 18px;
+  }
+
+  .owl-nav > button > img {
+    width: 70%;
+  }
+
+  .block-title {
+    font-size: 36px;
+  }
+
+  .we-offer__list {
+    font-size: 18px;
+  }
+
+  .slider-desc {
+    font-size: 16px;
+    line-height: 17px;
+  }
+
+  .cost-order {
+    margin-top: 30px;
+  }
+
+  .cost-order > label {
+    display: block;
+    margin-top: 15px;
+  }
+
+  .cost-order__submit {
+    height: 48px;
+    width: 190px;
+    font-size: 18px;
+  }
+
+  .footer-menu {
+    display: none;
+  }
+
+  .footer-bg {
+    width: 30%;
+    margin-top: 30px;
+  }
+}
+
+@media screen and (max-width: 648px) {
+  .header-img {
+    top: -119px;
+    right: -14px;
+    width: 65%;
+  }
+}
+
+@media screen and (max-width: 588px) {
+  .header-img {
+    top: -119px;
+    right: -8px;
+    width: 62%;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .nav {
+    margin-bottom: 70px;
+  }
+  .header-order-title {
+    order: 2;
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .header-order-img {
+    order: 1;
+  }
+
+  .offer-cont__btn {
+    margin: 35px auto;
+  }
+
+  .header-img {
+    position: static;
+    display: block;
+    width: 73%;
+    margin: 0 auto;
+  }
+
+  .offer-cont__title {
+    margin-top: 40px;
+    font-size: 32px;
+    line-height: 32px;
+  }
+  .offer-cont__text {
+    margin-top: 25px;
+    font-size: 20px;
+  }
+
+  header {
+    margin-bottom: 100px;
+  }
+
+  .block-title {
+    font-size: 30px;
+  }
+
+  .compleated-w__title {
+    margin-bottom: 55px;
+  }
+
+  .compleated-w-slider .item {
+    flex-wrap: wrap-reverse;
+  }
+
+  .compleated-w-slider .owl-item img {
+    width: 90%;
+    margin-left: 0;
+    margin: 0 auto;
+  }
+
+  .slider-desc {
+    width: 90%;
+    margin: 20px auto;
+    line-height: 20px;
+  }
+
+  .compleated-w-slider .owl-nav button {
+    margin-top: 0 !important;
+  }
+
+  .compleated-w__btn {
+    position: static;
+  }
+
+  .compleated-w {
+    margin-bottom: 100px;
+  }
+
+  .we-offer {
+    padding-bottom: 100px;
+  }
+
+  .we-offer__title {
+    padding: 0;
+    margin: 100px 0;
+  }
+
+  .we-offer__list {
+    font-size: 16px;
+  }
+
+  .we-offer__list > li > img {
+    width: 70%;
+  }
+
+  .services {
+    padding-bottom: 100px;
+  }
+  .services__title {
+    padding: 0;
+    margin: 100px 0 100px 0;
+  }
+  .sevices-slider__title {
+    font-size: 26px;
+  }
+
+  .services-slider__desc {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .cost__title {
+    margin-bottom: 100px;
+  }
+
+  .cost-offer,
+  .cost-order {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 452px) {
+  .logo {
+  }
+
+  .menu {
+    /* display: none; */
+  }
+}
