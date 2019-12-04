@@ -39,12 +39,12 @@ $(document).ready(function() {
         {
           src: "./img/slider1.jpg",
           subHtml:
-            "<h4>Fading Light</h4><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>"
+            "<h4>Ремонт кухни</h4><p>Выполнен косметический ремонт с использованием натяжных потолков, отделки стен и пола. Сроки выполнения ремонта квартиры — 4 недели.</p>"
         },
         {
-          src: "./img/slider2.jpg",
+          src: "./img/slider3.jpg",
           subHtml:
-            "<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>"
+            "<h4>Ремонт кухни</h4><p>Выполнен ремонт кухни с нуля, в комнате полностью произведено замену проводки, установлена мебель.</p>"
         },
         {
           src: "./img/slider1.jpg",
